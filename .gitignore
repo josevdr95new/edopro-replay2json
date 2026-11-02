@@ -1,0 +1,18 @@
+# Artefactos de build / publicación
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Entornos virtuales
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Tests / IDE
+.pytest_cache/
+.coverage
+.idea/
+.vscode/
